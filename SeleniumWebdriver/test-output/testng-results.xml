@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-03T07:40:25Z" name="Default suite" finished-at="2018-08-03T07:41:06Z" duration-ms="40940">
+    <groups>
+    </groups>
+    <test started-at="2018-08-03T07:40:25Z" name="Default test" finished-at="2018-08-03T07:41:06Z" duration-ms="40940">
+      <class name="testing_Pack.Mytestclass">
+        <test-method signature="load_url()[pri:1, instance:testing_Pack.Mytestclass@399c4be1]" started-at="2018-08-03T07:40:26Z" name="load_url" finished-at="2018-08-03T07:40:35Z" duration-ms="9058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- load_url -->
+        <test-method signature="add_record()[pri:2, instance:testing_Pack.Mytestclass@399c4be1]" started-at="2018-08-03T07:40:35Z" name="add_record" finished-at="2018-08-03T07:40:43Z" duration-ms="8327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_record -->
+        <test-method signature="edit()[pri:3, instance:testing_Pack.Mytestclass@399c4be1]" started-at="2018-08-03T07:40:43Z" name="edit" finished-at="2018-08-03T07:40:51Z" duration-ms="7738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit -->
+        <test-method signature="check_value()[pri:4, instance:testing_Pack.Mytestclass@399c4be1]" started-at="2018-08-03T07:40:51Z" name="check_value" finished-at="2018-08-03T07:40:59Z" duration-ms="8169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_value -->
+        <test-method signature="delete()[pri:5, instance:testing_Pack.Mytestclass@399c4be1]" started-at="2018-08-03T07:40:59Z" name="delete" finished-at="2018-08-03T07:41:05Z" duration-ms="6502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="finish()[pri:6, instance:testing_Pack.Mytestclass@399c4be1]" started-at="2018-08-03T07:41:05Z" name="finish" finished-at="2018-08-03T07:41:06Z" duration-ms="1057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- testing_Pack.Mytestclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
